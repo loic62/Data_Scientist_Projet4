@@ -1,0 +1,26 @@
+
+Bonjour,
+
+
+A. Le 1er fichier à exécuter est 'Projet5.ipynb'
+
+   Ce projet :
+
+    - charge les données
+    - explore les données
+    - construit le dataset principal
+    - 'clusterise' ce dataset selon 3 méthodes (CAH, Kmeans, DBSCAN)
+
+
+B. Le 2eme fichier à exécuter est 'Projet5_suite.ipynb'
+
+   Ce projet :
+
+    - évalue la stabilité de la segmentation au fil des mois
+    - évalue la période de validité de la segmentation
+
+
+
+Notes:  
+    - ces 2 projets sont indépendants. Leur ordre d'execution n'a pas d'importance.
+
